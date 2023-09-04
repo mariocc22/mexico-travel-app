@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "mexico_travel_app",
+    "slug": "mexico_travel_app"
+  }
+}
