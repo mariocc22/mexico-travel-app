@@ -1,14 +1,12 @@
-# Expo Router Example
+# Mexico Travel App - UI only
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+## Get Started
+This is a react native app about travelling to Baja California, Mexico.
 
-## 🚀 How to use
+![Homepage](stage_1.png)
 
-```sh
-npx create-expo-app -e with-router
-```
+## Tech Stack
+- **Frontend:** React Native, CSS
+- **3rd Party Libs** Linear Gradient, Heroicons 
 
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+![Explore](stage_2.png)
