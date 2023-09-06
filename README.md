@@ -3,7 +3,7 @@
 ## Get Started
 This is a react native app about travelling to Baja California, Mexico.
 
-![Homepage](app1.jpeg)
+![Homepage](/assets/showcase/app1.jpeg)
 
 ## Tech Stack
 - **Frontend:** React Native, CSS
