@@ -9,4 +9,4 @@ This is a react native app about travelling to Baja California, Mexico.
 - **Frontend:** React Native, CSS
 - **3rd Party Libs** Linear Gradient, Heroicons 
 
-![Home2](app2.jpeg)
+![Home2](/assets/showcase/app2.jpeg)
